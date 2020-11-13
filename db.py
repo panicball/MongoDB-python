@@ -233,4 +233,3 @@ movie_screening = [
 
 x = mycol1.insert_many(movie_screening)
 
-#https://stackoverflow.com/questions/13058130/pymongo-querying-list-of-embedded-documents
